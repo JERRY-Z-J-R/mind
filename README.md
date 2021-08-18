@@ -5,7 +5,7 @@ My Mind :helicopter:
 - 小小想法：突出核心、简洁内容、提高效率！:rocket:
 - 思维导图源文件均为 `.xmind`，导出文件为同名 `.pdf`，大纲简图为同名 `.png` :eyes:
 - 仓库中附加了 `Adobe PDF` 和 `XMind` 稳定破解版软件（Windows版），如果需要可以配合使用，特别说明：软件仅供个人学习使用，切勿用于商业用途 :exclamation:
-- `.xmind` 文件默认带有密码，无密码版本请加本人 `QQ:1846334075` 获取 :see_no_evil:
+- `.xmind` 文件默认带有密码，密码：`666666` :see_no_evil:
 - 如果喜欢请给个 Star :two_hearts:，本仓库内容持续更新优化中……
 
 学而时习之，不亦说乎！:smiley:
