@@ -8,7 +8,7 @@ My Mind :helicopter:
 - 小小想法：突出核心、简洁内容、提高效率！:rocket:
 - 思维导图源文件均为 `.xmind`，导出文件为同名 `.pdf`，大纲简图为同名 `.png` :eyes:
 - `.xmind` 文件默认带有密码，密码：`666666` :see_no_evil:
-- 如果喜欢请给个 Star :two_hearts:，本仓库内容持续更新优化中……
+- 如果喜欢请给个 Star :two_hearts:
 
 学而时习之，不亦说乎！:smiley:
 
