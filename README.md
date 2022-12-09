@@ -1,10 +1,10 @@
 # JERRY-Mind :speak_no_evil:
 
-> 2022/12/9：Mind 仓库暂停维护，关于 HTML CSS JS 更为详细的学习笔记请参考我个人的主营仓库：[JERRY-Z-J-R/I-love-you-3-thousand: “求知若饥，虚心若愚” —— Steve Jobs. (github.com)](https://github.com/JERRY-Z-J-R/I-love-you-3-thousand)
+> 2022/12/9：Mind 仓库暂停维护，关于 HTML CSS 更为详细的学习笔记请参考我个人的主要仓库：[JERRY-Z-J-R/I-love-you-3-thousand: “求知若饥，虚心若愚” —— Steve Jobs. (github.com)](https://github.com/JERRY-Z-J-R/I-love-you-3-thousand)
 
-My Mind :helicopter:
+HTML-CSS【Mind】 :helicopter:
 
-- 本仓库为作者个人学习过程中所总结的思维导图，流程图…… :alien:
+- 本仓库为个人学习 HTML CSS 过程中所总结的思维导图 :alien:
 - 小小想法：突出核心、简洁内容、提高效率！:rocket:
 - 思维导图源文件均为 `.xmind`，导出文件为同名 `.pdf`，大纲简图为同名 `.png` :eyes:
 - `.xmind` 文件默认带有密码，密码：`666666` :see_no_evil:
