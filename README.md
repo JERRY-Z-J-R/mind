@@ -1,4 +1,7 @@
 # JERRY-Mind :speak_no_evil:
+
+> 2022/12/9：Mind 仓库暂停维护，关于 HTML CSS JS 更为详细的学习笔记请参考我个人的主营仓库：[JERRY-Z-J-R/I-love-you-3-thousand: “求知若饥，虚心若愚” —— Steve Jobs. (github.com)](https://github.com/JERRY-Z-J-R/I-love-you-3-thousand)
+
 My Mind :helicopter:
 
 - 本仓库为作者个人学习过程中所总结的思维导图，流程图…… :alien:
