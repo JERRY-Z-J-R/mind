@@ -14,5 +14,5 @@ HTML-CSS【Mind】 :helicopter:
 
 :new_moon::waxing_crescent_moon::first_quarter_moon::waxing_gibbous_moon::full_moon::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon:
 
-> 请勿用于商业用途，转载请注明出处！
+> 原创内容，转载请注明出处，请勿用于商业用途！
 
